@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  Google
+
+  Created by Ruslan on 03/06/22.
+  
+*/
+
+"ME.main" = "I am";
+"Driver.button" = "Driver";
+"Passanger.button" = "Passanger";
+
+///LogInViewController
+
+"Authorization.label" = "Authorization";
+"PhoneNumber.placeholder" = "Phone number";
+"Password.placeholder" = "Password";
+"LogIn.button" = "Log in";
+"ForgotPassword.label" = "Forgot password";
+"Registration.button" = "Registration";
+/* ALL FOR ALERT IN LOG IN VIEW CONTROLLER*/
+"Alert.title" = "Alert";
+"Alert.message" = "Wrong format for phone number";
+"Alert.noNumber" = "Phone-number not entered";
+"Alert.noPassword" = "Password not entered";
+"amountOfNumbersInNumbersField.placeholder" = "Wrong phone number format";
+"amountOfPasswordCharacters" = "Password not secure";
+
+
+///RegistrationPageViewController
+
+"Registration.label" = "Registration";
+"Name.label.placeHolder" = "Name";
+"DateOfBirth.label.placeHolder" = "Date of birth";
+"PhoneNumber.label.placeHolder" = "Phone number";
+"Adress.label.placeHolder" = "Adress";
+"Password.label.placeHolder" = "Password";
+"RepeatPassword.label.placeholder" = "Repeat your password";
+"NextButton.label" = "Next";
+/*ALERTS FOR RegistrationPage*/
+"Alert.CharacterFound" = "Characters and numbers not allowed";
+"Alert.CharacterFoundForNumber" = "Characters and letters not allowed";
+"Alert.diffrentPasswords" = "Different passwords";
+"Alert.emptyField" = "Some fields are still empty";
+
+///ChooseCarTypeViewController
+
+"CarName.label" = "Car";
+"CarType.label.placeholder" = "Car type";
+"CarNumber.label.placeholder" = "Car number";
+"ConfirmationTitile" = "Confirmation";
+"Information" = "We have sent you confirmation number";
+"ConfirmationNumberPlaceholder" = "Confirmation number";
+"ConfirmationButton" = "Сonfirm";
+"WrongConfirmationNumberEntered" = "Wrong confirmation number";
+"TryAgainAfterButtonPressed" = " Try again";
+"AddImg.title" = "Add photo";
+"EndOfRegistration.ButtonText" = "Done";

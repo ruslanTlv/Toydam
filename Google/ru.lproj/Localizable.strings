@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Google
+
+  Created by Ruslan on 03/06/22.
+  
+*/
+
+"ME.main" = "Я";
+"Driver.button" = "Водитель";
+"Passanger.button" = "Пассажир";
+
+///LogInViewController
+
+"Authorization.label" = "Авторизация";
+"PhoneNumber.placeholder" = "Номер телефона";
+"Password.placeholder" = "Пароль";
+"LogIn.button" = "Войти";
+"ForgotPassword.label" = "Забыли пароль";
+"Registration.button" = "Зарегестрироваться";
+/* ALL FOR ALERT IN LOG IN VIEW CONTROLLER*/
+"Alert.title" = "Внимание";
+"Alert.message" = "Неправельный формат номера телефона!";
+"Alert.noNumber" = "Номер телефона не введен";
+"Alert.noPassword" = "Пароль не введен";
+"amountOfNumbersInNumbersField.placeholder" = "Неправельный формат номера";
+"amountOfPasswordCharacters" = "Пароль не надежный";
+
+
+///RegistrationPageViewController
+
+"Registration.label" = "Регистрация";
+"Name.label.placeHolder" = "Имя";
+"DateOfBirth.label.placeHolder" = "Дата рождения";
+"PhoneNumber.label.placeHolder" = "Телефон";
+"Adress.label.placeHolder" = "Адрес";
+"Password.label.placeHolder" = "Пароль";
+"RepeatPassword.label.placeholder" = "Повторите пароль";
+"NextButton.label" = "Далее";
+/*ALERTS FOR RegistrationPage*/
+"Alert.CharacterFound" = "Символы и цифры запрещены";
+"Alert.CharacterFoundForNumber" = "Символы и буквы запрещены";
+"Alert.diffrentPasswords" = "Разные пароли";
+"Alert.emptyField" = "Все поля должны быть заполнены";
+
+
+///ChooseCarTypeViewController
+
+"CarName.label" = "Машина";
+"CarType.label.placeholder" = "Марка машины";
+"CarNumber.label.placeholder" = "Номер Машины";
+"ConfirmationTitile" = "Подтверждение";
+"Information" = "Мы отправили вам код подтверждения";
+"ConfirmationNumberPlaceholder" = "Код подтверждения";
+"ConfirmationButton" = "Подтвердить";
+"WrongConfirmationNumberEntered" = "Неправильный код подтверждения";
+"TryAgainAfterButtonPressed" = "Попробывать сново";
+
+
+///ImageAddViewController
+"AddImg.title" = "Добавить фото";
+"EndOfRegistration.ButtonText" = "Готово";
